@@ -1,4 +1,7 @@
 # start project
+from sourse import Sourse
 
-class TestClass:
-    print('Тестовый текст')
+print('Тестовый текст')
+s = Sourse()
+print(s.msg)
+print('Еще текст')
