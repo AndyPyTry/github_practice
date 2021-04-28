@@ -4,4 +4,4 @@ from sourse import Sourse
 print('Тестовый текст')
 s = Sourse()
 print(s.msg)
-print('Еще текст')
+print('Версия V2.0')
